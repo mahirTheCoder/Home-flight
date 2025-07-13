@@ -1,0 +1,87 @@
+/* !---------------custom css start ------------------ */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+
+
+
+
+/* !---------------nav bar css start ------------------ */
+
+.main_menu ul {
+  margin-right: 10px;
+  gap: 30px;
+}
+
+.main_menu ul li a {
+  font-size: 15px;
+  font-weight: 500;
+  color: #0F294D;
+  font-family: "Jost", sans-serif;
+
+}
+
+.buutons {
+  display: flex;
+  gap: 20px;
+}
+
+
+.buutons a {
+  width: 170px;
+  height: 50px;
+  border: 2px solid #13357B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 400;
+  color: #13357B;
+  font-family: "Jost", sans-serif;
+  transition: all linear 0.4s;
+  border-radius: 4px;
+}
+
+.one: {
+  color: #13357B;
+}
+
+.one:hover {
+  background: #13357B;
+  color: #FFF;
+}
+
+.two:hover {
+  background: #13357B;
+  color: #FFF;
+}
+
+.main_menu {
+  margin-top: 30px;
+  /* !---------------nav bar css end ------------------ */
+
+}
+
+
