@@ -85,3 +85,101 @@ ol {
 }
 
 
+/* !---------------nav bar css start ------------------ */
+.bannerTextpart h2 {
+  font-size: 60px;
+  font-weight: 600;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+  padding-top: 281px;
+  margin-bottom: 6px;
+}
+
+.bannerTextpart p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+}
+
+
+
+
+.bannerImage img {
+  width: 550px;
+  height: 560px;
+  border-radius: 20px;
+  margin-top: 80px;
+}
+
+
+.dropDownOne select {
+  border: none;
+}
+
+.dropDownOne select option {
+  width: 60px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+
+}
+
+.dropDowntwo select {
+  border: none;
+}
+
+
+.dropDowntwo select option {
+  width: 60px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+
+}
+
+
+.dropDownThree select {
+  border: none;
+}
+
+.dropDownThree select option {
+  width: 60px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+  border: transparent !important;
+  border-radius: 10px !important;
+
+}
+
+
+.dropdwnall {
+  display: flex;
+  gap: 30px;
+}
+
+.boxCustomised {
+  width: 170px;
+  height: 60px;
+  background: #13357B;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 40px;
+}
+
+
+.boxCustomised a {
+  font-size: 15px;
+  font-weight: 400;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+}
+
+/* !---------------banner css end ------------------ */
