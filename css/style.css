@@ -423,16 +423,16 @@ ol {
 
 
 
-.sliderimgtext img{
-width: 400px;
-height: 350px;
-margin-bottom: 20px;
-border-radius: 10px;
+.sliderimgtext img {
+  width: 400px;
+  height: 350px;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 
 .overlay h2 {
-    font-size: 26px;
+  font-size: 26px;
   font-weight: 600;
   color: #000;
   font-family: "Jost", sans-serif;
@@ -440,7 +440,7 @@ border-radius: 10px;
 
 
 .overlay h3 {
-    font-size: 15px;
+  font-size: 15px;
   font-weight: 400;
   color: #000;
   font-family: "Jost", sans-serif;
@@ -457,55 +457,202 @@ border-radius: 10px;
 
 /* !---------------customers css end ------------------ */
 
+#customers {
+  background: #13357B;
+  height: 558px;
+  margin-top: 80px;
+}
 
 
+.customerstextpart1 h2 {
+  max-width: 353px;
+  font-size: 30px;
+  font-weight: 600;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+  margin-top: 120px;
+  color: #FFF;
+  margin-bottom: 20px;
+}
+
+.customerstextpart1 p {
+  max-width: 520px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFF !important;
+  font-family: "Jost", sans-serif;
+  line-height: 30px;
+}
 
 
+.cp1 p {
+  font-size: 30px;
+  font-weight: 600;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+}
+
+.cp1 {
+  display: flex;
+}
+
+.cp1 h3 {
+  font-size: 30px;
+  font-weight: 600;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+  margin: 0;
+}
 
 
+.cp2 p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+}
 
+.cpTwo1 span {
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFF !important;
+  font-family: "Jost", sans-serif;
+}
+
+.cptwo2 p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+  margin: 0;
+}
+
+.cptwo3 a {
+  font-size: 10px;
+  color: #FFF;
+  display: inline-flex;
+  gap: 7px;
+
+}
+
+.counterPartBoth {
+  display: flex;
+  gap: 143px;
+  margin-top: 60px;
+}
+
+.imagCPartTWo1 img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+.imagCPartTWoText h3 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+}
+
+.imagCPartTWoText p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+}
+
+
+.imagCPartTWo1 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-top: 148px;
+  margin-bottom: 30px;
+}
+
+.imagCPartTWo p {
+  max-width: 630px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+  line-height: 30px;
+}
+
+.imagCPartTWo img {
+  max-width: 378px;
+}
 
 
 
 /* !---------------customers css end ------------------ */
 
 
+/* !---------------Popular css start ------------------ */
+
+#Popular {
+  margin-top: 120px;
+}
+
+.picslider img {
+  width: 400px;
+  height: 350px;
+  border-radius: 10px;
+}
 
 
+.picandtext h2 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+  margin-top: 10px;
+}
+
+.picandtext p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+  margin: 0;
+  margin-top: 10px;
+
+}
 
 
+.freetext p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+  margin-top: 10px;
+  margin: 0;
+}
 
 
+.freetext h3 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+
+}
 
 
+.freetext {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
 
 
+.slick-arrow {
+  border: none;
+  margin-bottom: 10px;
+  background: transparent;
+  color: #000;
+  font-stretch: 20px;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* !---------------Destinations css end ------------------ */
+/* !---------------Popular css end ------------------ */
