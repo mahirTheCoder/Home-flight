@@ -245,3 +245,267 @@ ol {
 
 
 /* !---------------chose css end ------------------ */
+
+
+
+/* !---------------recommended css start ------------------ */
+#reccommended {
+  margin-top: 120px;
+}
+
+
+.textpartOne h2 {
+  font-size: 30px;
+  font-weight: 600;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+}
+
+
+.textpartOne p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+}
+
+.textMore {
+  width: 126px;
+  height: 50px;
+  border-radius: 4px;
+  background: #3554d133;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.recommendedtext {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.recommendedBox {
+  width: 1290px;
+  height: 110px;
+  background: #FFF;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+  margin-bottom: 30px;
+}
+
+.recommendedBox:hover {
+  background: #3554d105;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+
+.recImg img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  margin-left: 35px;
+}
+
+.recText {
+  display: flex;
+  gap: 25px;
+}
+
+.recText1 h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+}
+
+
+.recText1 p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+}
+
+.recText2 {
+  width: 180px;
+  height: 45px;
+}
+
+
+.recText3 h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+}
+
+
+.recText3 p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+}
+
+.recText {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+
+}
+
+
+.doller h2 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+}
+
+
+.doller p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #697488;
+  font-family: "Jost", sans-serif;
+}
+
+
+.dollerbutton {
+  width: 159px;
+  height: 50px;
+  border: 2px solid #3554D1;
+  descent-override: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: "Jost", sans-serif;
+  transition: all linear 0.4s;
+}
+
+.dollerbutton a {
+  font-size: 15px;
+  font-weight: 500;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+}
+
+.dollerbutton:hover {
+  background: #3554D1;
+  color: #FFFb !important;
+}
+
+.RecButton {
+  display: flex;
+  gap: 25px;
+  margin-right: 35px;
+}
+
+.teaxtrecpartOne {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+/* !---------------recommended css end ------------------ */
+
+/* !---------------Destinations css start ------------------ */
+
+#Destinations {
+  margin-top: 182px;
+}
+
+
+
+
+.sliderimgtext img{
+width: 400px;
+height: 350px;
+margin-bottom: 20px;
+border-radius: 10px;
+}
+
+
+.overlay h2 {
+    font-size: 26px;
+  font-weight: 600;
+  color: #000;
+  font-family: "Jost", sans-serif;
+}
+
+
+.overlay h3 {
+    font-size: 15px;
+  font-weight: 400;
+  color: #000;
+  font-family: "Jost", sans-serif;
+}
+
+
+.sliderimgtext {
+  margin-right: 10px;
+  border-radius: 30px;
+}
+
+
+/* !---------------Destinations css end ------------------ */
+
+/* !---------------customers css end ------------------ */
+
+
+
+
+
+
+
+
+
+
+
+/* !---------------customers css end ------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* !---------------Destinations css end ------------------ */
