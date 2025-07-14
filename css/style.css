@@ -64,7 +64,7 @@ ol {
   border-radius: 4px;
 }
 
-.one: {
+.one {
   color: #13357B;
 }
 
@@ -761,26 +761,110 @@ ol {
   margin-top: 5px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* !---------------inspiration css end ------------------ */
+
+/* !---------------footer css start ----------------- */
+
+
+#footer {
+  margin-top: 150px;
+  background: #13357B;
+  height: 659px;
+}
+
+.footerText img {
+  width: 143px;
+  height: 50px;
+  margin-top: 109px;
+  margin-bottom: 32px;
+}
+
+.footerTextOne p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+  margin-bottom: 11px;
+}
+
+
+.footerTextOne {
+  display: flex;
+  gap: 118px;
+}
+
+.footerTextTwo a {
+  font-size: 18px;
+  font-weight: 500;
+  color: #FFF;
+  font-family: "Jost", sans-serif;
+  margin-bottom: 60px;
+}
+
+.footerTextTwo {
+  display: flex;
+  gap: 107px;
+}
+
+.updatepp p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #FFF !important;
+  font-family: "Jost", sans-serif;
+  margin: 0;
+  padding-bottom: 13px;
+}
+
+.imgF img {
+  width: 190px;
+  height: 60px;
+  margin: 0;
+}
+
+.imgF {
+  display: flex;
+  gap: 20px;
+  padding-bottom: 60px;
+}
+
+.iconsAll a {
+  font-size: 20px;
+  color: #FFF;
+}
+
+.iconsAll {
+ display: flex;
+ gap: 37px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* !---------------footer css end ------------------ */
