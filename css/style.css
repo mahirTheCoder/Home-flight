@@ -709,7 +709,57 @@ ol {
 
 
 /* !---------------inspiration css start ------------------ */
+#inspiration {
+  margin-top: 120px;
+}
 
+
+.inspirationText h2 {
+  max-width: 459px;
+  font-size: 30px;
+  font-weight: 600;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+  margin: 0 auto;
+}
+
+.inspirationText p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #051036;
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+
+
+.inspirationImg img {
+  border-radius: 10px;
+  width: 450px;
+  height: 350px;
+}
+
+.inspirationImgText h2 {
+  max-width: 410px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #051036;
+  line-height: 30px;
+  margin: 0;
+  padding-top: 20px;
+  font-family: "Jost", sans-serif;
+}
+
+
+.inspirationImgText p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #697488;
+  line-height: 26px;
+  font-family: "Jost", sans-serif;
+  margin-top: 5px;
+}
 
 
 
