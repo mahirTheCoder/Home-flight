@@ -478,7 +478,6 @@ button .prevcustoms {
    height: 30px;
    font-size: 1px;
    color: #000;
-   background: #FFF;
    border-radius: 50%;
   z-index: 2;
   position: absolute;
@@ -491,13 +490,13 @@ button .prevcustoms {
 } */
 
 .rrr{
-top: 50%;
+top: 43%;
 transform: translateY(-50%);
 left: 10px;
 }
 
 .nrr{
-top: 50%;
+top: 43%;
 transform: translateY(-50%);
 right: 50px;
 }
@@ -706,6 +705,29 @@ right: 50px;
   color: #000;
   font-stretch: 20px;
 }
+
+.slick-dots {
+  display: flex !important;
+  justify-content: center;
+  gap: 5px;
+}
+
+
+.slick-dots li button {
+  width: 12px;
+  height: 12px;
+  font-size: 0px;
+  border: none;
+  border-radius: 50%;
+}
+
+.slick-active button{
+  background: #000;
+  margin: 0;
+}
+
+
+
 
 /* !---------------Popular css end ------------------ */
 
